@@ -1,10 +1,14 @@
 
 # Prometheus and Grafana Monitoring in Docker
-<div align="center">
+Prometheus and Grafana setup with Node exporter and smtp mail alerting. Noice!
+## Technologies
+<div align="left">
     <img src="https://skillicons.dev/icons?i=docker,prometheus,grafana" />
 </div>
-<br>
-Prometheus and Grafana setup with Node exporter and smtp mail alerting. Noice!
+
+1. Docker
+2. Prometheus
+3. Grafana
 
 ## How to run
 1. run ` docker compose up -d `
